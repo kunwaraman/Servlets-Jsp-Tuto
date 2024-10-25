@@ -29,10 +29,7 @@ public class FirstServlet extends HttpServlet {
 			rd.forward(req, resp);
 			*/		
 			// use send redirect
-//			resp.sendRedirect("servlet2");
-			/* 
-			 * Hi chekc the correct nesss
-			 * */
+			resp.sendRedirect("servlet2");
 		}else {
 			// redirect login page
 			// agar invalid hai
