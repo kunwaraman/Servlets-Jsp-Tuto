@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.demo.LoginDemoRedirect&apos; to &apos;Login&apos;&#x0D;&#x0A;- Original project: &apos;senredirectdemoexample&apos;&#x0D;&#x0A;- Original element: &apos;com.demo.LoginDemoRedirect&apos;&#x0D;&#x0A;- Renamed element: &apos;com.demo.Login&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LoginDemoRedirect&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.demo{LoginDemoRedirect.java[LoginDemoRedirect" matchStrategy="1" name="Login" qualified="false" references="true" similarDeclarations="false" stamp="1714296608027" textual="false" version="1.0"/>
+</session>

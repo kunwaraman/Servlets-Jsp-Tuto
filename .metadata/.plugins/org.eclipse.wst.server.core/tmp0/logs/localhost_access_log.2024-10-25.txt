@@ -1,0 +1,8 @@
+127.0.0.1 - - [25/Oct/2024:21:34:09 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:21:34:09 +0530] "GET /RequestDispatcherBc03/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:21:34:16 +0530] "POST /RequestDispatcherBc03/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:21:34:16 +0530] "GET /servlet2 HTTP/1.1" 404 760
+127.0.0.1 - - [25/Oct/2024:21:35:20 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:21:36:19 +0530] "GET /RequestDispatcherBc03/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:21:36:28 +0530] "POST /RequestDispatcherBc03/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Oct/2024:21:36:28 +0530] "GET /RequestDispatcherBc03/servlet2 HTTP/1.1" 200 31

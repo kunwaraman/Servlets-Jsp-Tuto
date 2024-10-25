@@ -1,0 +1,5 @@
+package om.servlet;
+
+public class SecondServlet {
+
+}
